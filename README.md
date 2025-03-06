@@ -50,8 +50,6 @@ This is a simple **Internet Speed Test** application built using **Streamlit**. 
    streamlit run speed.py
    ```
 
-## 🎥 Demo Video
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](VIDEO_LINK_HERE)
 
 📌 **Note:** Replace `VIDEO_ID` and `VIDEO_LINK_HERE` with your uploaded YouTube video URL.
 
