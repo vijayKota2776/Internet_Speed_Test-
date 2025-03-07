@@ -28,10 +28,6 @@ This is a simple **Internet Speed Test** application built using **Streamlit**. 
 ### Test Results
 ![Test Results](speed_test/demo/test.png)
 
-## Demo Video
-
-![Demo Video](speed_test/demo/demo_video.mp4)
-
 ## 🚀 How to Run the Project
 1. **Clone the Repository:**
    ```bash
@@ -50,8 +46,6 @@ This is a simple **Internet Speed Test** application built using **Streamlit**. 
    streamlit run speed.py
    ```
 
-
-📌 **Note:** Replace `VIDEO_ID` and `VIDEO_LINK_HERE` with your uploaded YouTube video URL.
 
 ## 🤖 Extra Features (if any)
 - **Auto-detects the best server for testing.**
